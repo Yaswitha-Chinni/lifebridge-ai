@@ -2,7 +2,7 @@
 
 **LifeBridge AI** is an intelligent, offline-capable disaster response and emergency management command center built for the "Agents for Good" hackathon track. It empowers communities and first responders to coordinate effectively during critical crises, such as flash floods or cyclones.
 
-![LifeBridge AI Dashboard Placeholder](https://via.placeholder.com/1200x600/0B0E14/EF4444?text=LifeBridge+AI+Command+Center)
+![LifeBridge AI Dashboard Preview](public/dashboard_preview.png)
 
 ## 🌟 Key Features & Workflows
 
